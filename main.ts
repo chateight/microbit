@@ -6,6 +6,3 @@ bluetooth.onBluetoothDisconnected(function () {
 })
 bluetooth.startTemperatureService()
 basic.showIcon(IconNames.Happy)
-basic.forever(function () {
-	
-})
